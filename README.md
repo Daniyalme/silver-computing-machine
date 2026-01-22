@@ -15,13 +15,13 @@ You can download the following applications and tools **without using a VPN**.
 
 [Download](https://my.files.ir/drive/s/uQqLSl5Y1Gb4N5UYaAez2AZOUptX5u)
 
-[Mirror Link](https://raw.githubusercontent.com/Daniyalme/silver-computing-machine/refs/heads/main/psiphon/Psiphon3-Windows.zip)
+[Mirror Link](https://raw.githubusercontent.com/Daniyalme/silver-computing-machine/refs/heads/main/psiphon/PsiphonAndroid.zip)
 
 ### Psiphon (Windows)
 
 [Download](https://my.files.ir/drive/s/w180Bc5Z4lFsaL8SwEsDbydZz07BNF)
 
-[Mirror Link](https://raw.githubusercontent.com/Daniyalme/silver-computing-machine/refs/heads/main/psiphon/PsiphonAndroid.zip)
+[Mirror Link](https://raw.githubusercontent.com/Daniyalme/silver-computing-machine/refs/heads/main/psiphon/Psiphon3-Windows.zip)
 
 ### NPV Tunnel
 
